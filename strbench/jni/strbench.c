@@ -42,6 +42,24 @@ memcmp_bench(char *s1, char *s2, int sample_len)
 }
 
 void
+memcpy_bench(char *s1, char *s2, int sample_len)
+{
+#undef memcpy
+        volatile int r = memcpy(s1, s2, sample_len);
+        assert(!r || r);
+}
+
+
+void
+memset_bench(char *s1, char *s2, int sample_len)
+{
+#undef memset
+        volatile int r = memset(s1, &s2, sample_len);
+        assert(!r || r);
+}
+
+
+void
 strlen_bench(char *s1, char *s2, int sample_len)
 {
 #undef strlen
@@ -58,6 +76,8 @@ struct bench {
 	{ "strcmp", strcmp_bench },
 	{ "strncmp", strncmp_bench },
 	{ "memcmp", memcmp_bench },
+	{ "memcpy", memcpy_bench },
+	{ "memset", memset_bench },
 	{ "strlen", strlen_bench },
 	{ NULL, NULL }
 };
@@ -66,7 +86,7 @@ int
 main(int argc, char *argv[])
 {
 	if (argc < 3) {
-		fprintf(stderr, "Usage: %s {strcmp|strncmp|memcmp|strlen} ITERS SAMPLESIZE..\n", argv[0]);
+		fprintf(stderr, "Usage: %s {strcmp|strncmp|memcmp|memcpy|memset|strlen} ITERS SAMPLESIZE..\n", argv[0]);
 		exit(EXIT_FAILURE);
 	}
 	char *func = argv[1];
@@ -91,19 +111,22 @@ main(int argc, char *argv[])
 
 	srand(sample[0] | (sample[1] << 8));
 	/* Benchmark different sample sizes. */
-	for (int s = 3; s < argc; s++) {
+	int s = 3;
+	for (s = 3; s < argc; s++) {
 		int size = atoi(argv[s]);
 		int samples = READSIZE / size;
 
 		/* Punch zeros at sample ends. */
-		for (int i = 0; i < samples; i++)
+		int i = 0;
+		for (i = 0; i < samples; i++)
 			sample[(i + 1) * size - 1] = 0;
 
 		/* Run benchmark! */
 		struct tms tstart;
 		clock_t start = times(&tstart);
-		for (int k = 0; k < iters; k++)
-			for (int i = 0; i < samples; i += 2)
+		int k = 0;
+		for ( k = 0; k < iters; k++)
+			for ( i = 0; i < samples; i += 2)
 				b->func(&sample[i * size], &sample[i * size + 1], size);
 
 		/* Print time... */
@@ -117,7 +140,7 @@ main(int argc, char *argv[])
 			(float)(now - start) / u);
 
 		/* Restore sample ends. */
-		for (int i = 0; i < samples; i++)
+		for ( i = 0; i < samples; i++)
 			sample[(i + 1) * size - 1] = rand();
 	}
 
