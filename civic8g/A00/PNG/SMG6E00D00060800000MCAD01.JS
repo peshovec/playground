@@ -1,0 +1,1 @@
+function ISMG6E00D00060800000MCAD01(){var i=0;this.Title=" Inspection";this.Name="SMG6E00D00060800000MCAD01";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(221,58,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(101,18,13,0,"'Arial','sans-serif'",0,"<b>Pulled up with 196 N (20 kgf, 44 lbf)</b>");}

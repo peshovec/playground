@@ -1,0 +1,1 @@
+function ISMG6E50A1822402490AKBAD07(){var i=0;this.Title="Side Engine Mount Upper Bracket Replacement";this.Name="SMG6E50A1822402490AKBAD07";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(185,289,13,0,"'Arial','sans-serif'",0,"<b>12 x 1.25 mm<br>74 N&middot;m (7.5 kgf&middot;m, 54 lbf&middot;ft)</b>");}

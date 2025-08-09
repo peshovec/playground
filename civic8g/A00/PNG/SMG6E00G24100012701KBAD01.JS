@@ -1,0 +1,1 @@
+function ISMG6E00G24100012701KBAD01(){var i=0;this.Title="Air Mix Control Motor (Driver's) Replacement";this.Name="SMG6E00G24100012701KBAD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(32,161,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(293,17,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

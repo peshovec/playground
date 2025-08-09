@@ -1,0 +1,1 @@
+function ISMG6E50A20300000000CAAD04(){var i=0;this.Title=" ECM Inputs and Outputs at Connector No. 2 (58P)";this.Name="SMG6E50A20300000000CAAD04";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(354,274,12,0,"'Arial','sans-serif'",0,"<b></b>Terminal side of female terminals");}

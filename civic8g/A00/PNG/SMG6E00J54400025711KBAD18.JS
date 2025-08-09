@@ -1,0 +1,1 @@
+function ISMG6E00J54400025711KBAD18(){var i=0;this.Title="Extra Window Replacement";this.Name="SMG6E00J54400025711KBAD18";this.Width=475;this.Height=449;this.CallOut=new Array;this.CallOut[i++]=FS4(39,16,13,0,"'Arial','sans-serif'",0,"<b>Fastener Locations</b>");this.CallOut[i++]=FS4(58,42,13,0,"'Arial','sans-serif'",0,"<b>: Screw, 2</b>");}

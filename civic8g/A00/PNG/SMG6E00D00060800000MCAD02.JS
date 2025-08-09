@@ -1,0 +1,1 @@
+function ISMG6E00D00060800000MCAD02(){var i=0;this.Title=" Adjustment";this.Name="SMG6E00D00060800000MCAD02";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(428,31,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(410,353,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

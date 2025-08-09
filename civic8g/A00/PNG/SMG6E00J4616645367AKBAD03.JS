@@ -1,0 +1,1 @@
+function ISMG6E00J4616645367AKBAD03(){var i=0;this.Title="Rear Seat Foot Pipe Replacement";this.Name="SMG6E00J4616645367AKBAD03";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(135,322,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(161,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

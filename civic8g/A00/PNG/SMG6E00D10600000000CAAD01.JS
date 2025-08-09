@@ -1,0 +1,1 @@
+function ISMG6E00D10600000000CAAD01(){var i=0;this.Title=" ABS Modulator-control Unit Inputs and Outputs for 26P Connector";this.Name="SMG6E00D10600000000CAAD01";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(374,271,12,0,"'Arial','sans-serif'",0,"<b></b>Wire side of female terminals");}

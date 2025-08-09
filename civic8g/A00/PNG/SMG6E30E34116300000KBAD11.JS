@@ -1,0 +1,1 @@
+function ISMG6E30E34116300000KBAD11(){var i=0;this.Title=" Flywheel Inspection";this.Name="SMG6E30E34116300000KBAD11";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(291,8,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(389,19,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

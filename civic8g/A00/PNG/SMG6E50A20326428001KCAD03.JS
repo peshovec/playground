@@ -1,0 +1,1 @@
+function ISMG6E50A20326428001KCAD03(){var i=0;this.Title="Fuel Line/Quick-Connect Fitting Installation";this.Name="SMG6E50A20326428001KCAD03";this.Width=475;this.Height=625;this.CallOut=new Array;this.CallOut[i++]=FS4(56,488,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(101,115,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

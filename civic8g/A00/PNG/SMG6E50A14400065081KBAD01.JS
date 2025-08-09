@@ -1,0 +1,1 @@
+function ISMG6E50A14400065081KBAD01(){var i=0;this.Title="Water Outlet Replacement";this.Name="SMG6E50A14400065081KBAD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(28,322,13,0,"'Arial','sans-serif'",0,"<b>6 x 1.0 mm<br>12 N&middot;m (1.2 kgf&middot;m, 8.7 lbf&middot;ft)</b>");}

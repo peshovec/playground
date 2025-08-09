@@ -1,0 +1,1 @@
+function ISMG6E50K72100091062FAAD01(){var i=0;this.Title="DTC Troubleshooting: P1062 (95-13), P1064 (95-15)";this.Name="SMG6E50K72100091062FAAD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(366,86,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(73,89,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

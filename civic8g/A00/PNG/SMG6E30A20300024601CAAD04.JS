@@ -1,0 +1,1 @@
+function ISMG6E30A20300024601CAAD04(){var i=0;this.Title=" ECM Inputs and Outputs at Connector B ([utri]) (44P)";this.Name="SMG6E30A20300024601CAAD04";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(356,289,12,0,"'Arial','sans-serif'",0,"<b></b>Terminal side of female terminals");}

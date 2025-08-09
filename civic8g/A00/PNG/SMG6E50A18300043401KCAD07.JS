@@ -1,0 +1,1 @@
+function ISMG6E50A18300043401KCAD07(){var i=0;this.Title="Engine Oil Pan Installation";this.Name="SMG6E50A18300043401KCAD07";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(394,36,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

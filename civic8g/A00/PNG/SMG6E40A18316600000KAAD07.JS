@@ -1,0 +1,1 @@
+function ISMG6E40A18316600000KAAD07(){var i=0;this.Title="Crankshaft and Piston Removal";this.Name="SMG6E40A18316600000KAAD07";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(417,62,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(56,130,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

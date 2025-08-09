@@ -1,0 +1,1 @@
+function ISMG6E000000000K0051BAAD03(){var i=0;this.Title="Towing";this.Name="SMG6E000000000K0051BAAD03";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(293,337,13,0,"'Arial','sans-serif'",0,"<b>C</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E30E34150719632KBAD03(){var i=0;this.Title="M/T Differential Oil Seal Replacement";this.Name="SMG6E30E34150719632KBAD03";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(40,238,13,0,"'Arial','sans-serif'",0,"<b>07749-0010000</b>");this.CallOut[i++]=FS4(67,305,13,0,"'Arial','sans-serif'",0,"<b>07NAD-P200100</b>");}

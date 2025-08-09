@@ -1,0 +1,1 @@
+function ISMG6E50G10500000000CAAD05(){var i=0;this.Title=" Overview";this.Name="SMG6E50G10500000000CAAD05";this.Width=950;this.Height=479;this.CallOut=new Array;this.CallOut[i++]=FS4(250,451,12,0,"'Arial','sans-serif'",0,"<b>PTC HEATER CORE</b>");}

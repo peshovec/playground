@@ -1,0 +1,1 @@
+function ISMG6E00J36200000000CAAD13(){var i=0;this.Title=" Navigation display Inputs and Outputs for 20P Connector";this.Name="SMG6E00J36200000000CAAD13";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(372,274,12,0,"'Arial','sans-serif'",0,"<b></b>Wire side of female terminals");}

@@ -1,0 +1,1 @@
+function ISMG6E50A46500000000FAAD02(){var i=0;this.Title="Starter Circuit Troubleshooting";this.Name="SMG6E50A46500000000FAAD02";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(202,17,13,0,"'Arial','sans-serif'",0,"<b>S</b>");}

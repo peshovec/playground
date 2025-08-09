@@ -1,0 +1,1 @@
+function ISMG6E00J54226562001KDAD01(){var i=0;this.Title=" Removal";this.Name="SMG6E00J54226562001KDAD01";this.Width=475;this.Height=433;this.CallOut=new Array;this.CallOut[i++]=FS4(383,340,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

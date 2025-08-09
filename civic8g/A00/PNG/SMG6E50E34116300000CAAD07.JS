@@ -1,0 +1,1 @@
+function ISMG6E50E34116300000CAAD07(){var i=0;this.Title=" Construction";this.Name="SMG6E50E34116300000CAAD07";this.Width=950;this.Height=335;this.CallOut=new Array;this.CallOut[i++]=FS4(497,19,12,0,"'Arial','sans-serif'",0,"<b>DELAY ORIFICE MECHANISM</b>");}

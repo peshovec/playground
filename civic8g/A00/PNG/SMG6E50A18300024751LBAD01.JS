@@ -1,0 +1,1 @@
+function ISMG6E50A18300024751LBAD01(){var i=0;this.Title="Engine Block Cylinder Bore Honing";this.Name="SMG6E50A18300024751LBAD01";this.Width=475;this.Height=304;this.CallOut=new Array;this.CallOut[i++]=FS4(208,83,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(387,143,13,0,"'Arial','sans-serif'",0,"<b>30-60 &deg;</b>");}

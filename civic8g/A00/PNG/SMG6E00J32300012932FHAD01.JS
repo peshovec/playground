@@ -1,0 +1,1 @@
+function ISMG6E00J32300012932FHAD01(){var i=0;this.Title="Ambient Light Test/Replacement";this.Name="SMG6E00J32300012932FHAD01";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(342,195,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(48,293,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

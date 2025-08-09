@@ -1,0 +1,1 @@
+function ISMG6E40A14680263041LBAD04(){var i=0;this.Title="Cylinder Head Valve Seat Reconditioning";this.Name="SMG6E40A14680263041LBAD04";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(133,85,12,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(207,226,12,0,"'Arial','sans-serif'",0,"<b>A</b>");}

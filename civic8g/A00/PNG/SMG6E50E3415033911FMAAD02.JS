@@ -1,0 +1,1 @@
+function ISMG6E50E3415033911FMAAD02(){var i=0;this.Title=" Reverse:";this.Name="SMG6E50E3415033911FMAAD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(295,69,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(310,282,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

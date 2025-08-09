@@ -1,0 +1,1 @@
+function ISMG6E00J54400020371MBAD03(){var i=0;this.Title="Door Glass Adjustment";this.Name="SMG6E00J54400020371MBAD03";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(394,210,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(311,340,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

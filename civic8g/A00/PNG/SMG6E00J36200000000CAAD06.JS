@@ -1,0 +1,1 @@
+function ISMG6E00J36200000000CAAD06(){var i=0;this.Title=" Position detection Image with GPS satellite";this.Name="SMG6E00J36200000000CAAD06";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(55,287,12,0,"'Arial','sans-serif'",0,"<b></b>NOTE: Four satellites on each of six orbits.");}

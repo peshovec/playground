@@ -1,0 +1,1 @@
+function ISMG6E00J36200000000BBAD29(){var i=0;this.Title=" Start-up procedure and Diagnosis Menu";this.Name="SMG6E00J36200000000BBAD29";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(177,12,13,0,"'Arial','sans-serif'",0,"<b>A<br>07PAZ-0010100</b>");this.CallOut[i++]=FS4(424,126,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

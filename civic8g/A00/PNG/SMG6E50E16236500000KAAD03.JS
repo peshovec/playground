@@ -1,0 +1,1 @@
+function ISMG6E50E16236500000KAAD03(){var i=0;this.Title="Intermediate Shaft Removal";this.Name="SMG6E50E16236500000KAAD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(297,56,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(451,117,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

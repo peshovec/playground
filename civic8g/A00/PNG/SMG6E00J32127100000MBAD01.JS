@@ -1,0 +1,1 @@
+function ISMG6E00J32127100000MBAD01(){var i=0;this.Title="Front Fog Lights Adjustment";this.Name="SMG6E00J32127100000MBAD01";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(364,428,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E50K72100091384FAAD02(){var i=0;this.Title="DTC Troubleshooting: P1384 (173-4)";this.Name="SMG6E50K72100091384FAAD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(121,33,13,0,"'Arial','sans-serif'",0,"<b>GLOW PLUG 1P CONNECTOR</b>");this.CallOut[i++]=FS4(115,273,13,0,"'Arial','sans-serif'",0,"<b></b>Terminal side of male terminals");}

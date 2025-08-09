@@ -1,0 +1,1 @@
+function ISMG6E50F00000057111KDAD13(){var i=0;this.Title=" LHD:";this.Name="SMG6E50F00000057111KDAD13";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(54,108,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(312,81,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

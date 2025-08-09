@@ -1,0 +1,1 @@
+function ISMG6E00G24100012701KBAD03(){var i=0;this.Title="Air Mix Control Motor (Passenger's) Replacement";this.Name="SMG6E00G24100012701KBAD03";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(38,356,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(197,383,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00J54400051573KBAD01(){var i=0;this.Title="Roof Glass Replacement";this.Name="SMG6E00J54400051573KBAD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(212,243,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(13,252,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

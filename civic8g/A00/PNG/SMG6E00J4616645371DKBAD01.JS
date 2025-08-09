@@ -1,0 +1,1 @@
+function ISMG6E00J4616645371DKBAD01(){var i=0;this.Title="Rear Seat Lock Cable Replacement";this.Name="SMG6E00J4616645371DKBAD01";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(330,290,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(209,23,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00H46400000000AAAD16(){var i=0;this.Title=" Side Airbag Connector";this.Name="SMG6E00H46400000000AAAD16";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(259,38,13,0,"'Arial','sans-serif'",0,"<b>C</b>");}

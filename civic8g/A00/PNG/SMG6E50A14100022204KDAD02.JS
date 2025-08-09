@@ -1,0 +1,1 @@
+function ISMG6E50A14100022204KDAD02(){var i=0;this.Title="Drive Belt Idler Pulley Base Removal/Installation";this.Name="SMG6E50A14100022204KDAD02";this.Width=475;this.Height=449;this.CallOut=new Array;this.CallOut[i++]=FS4(314,16,13,0,"'Arial','sans-serif'",0,"<b>10 x 1.25 mm<br>44 N&middot;m <br>(4.5 kgf&middot;m, 33 lbf&middot;ft)</b>");}

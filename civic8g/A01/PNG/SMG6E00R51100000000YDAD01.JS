@@ -1,0 +1,1 @@
+function ISMG6E00R51100000000YDAD01(){var i=0;this.Title="Cross Section of Body and Sealants - General Safety Precaution";this.Name="SMG6E00R51100000000YDAD01";this.Width=475;this.Height=320;this.CallOut=new Array;}

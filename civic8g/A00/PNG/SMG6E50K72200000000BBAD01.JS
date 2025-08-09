@@ -1,0 +1,1 @@
+function ISMG6E50K72200000000BBAD01(){var i=0;this.Title=" How to Retrieve DTCs";this.Name="SMG6E50K72200000000BBAD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(260,277,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

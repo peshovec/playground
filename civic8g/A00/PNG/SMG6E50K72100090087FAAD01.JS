@@ -1,0 +1,1 @@
+function ISMG6E50K72100090087FAAD01(){var i=0;this.Title="DTC Troubleshooting: P0087 (95-10)";this.Name="SMG6E50K72100090087FAAD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(415,218,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(27,108,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

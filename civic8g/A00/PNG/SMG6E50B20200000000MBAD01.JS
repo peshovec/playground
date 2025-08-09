@@ -1,0 +1,1 @@
+function ISMG6E50B20200000000MBAD01(){var i=0;this.Title=" Pre-Alignment Checks";this.Name="SMG6E50B20200000000MBAD01";this.Width=475;this.Height=365;this.CallOut=new Array;}

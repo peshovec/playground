@@ -1,0 +1,1 @@
+function ISMG6E00J26273423501KDAD03(){var i=0;this.Title=" Rear Pillar Trim";this.Name="SMG6E00J26273423501KDAD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(137,248,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(50,132,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

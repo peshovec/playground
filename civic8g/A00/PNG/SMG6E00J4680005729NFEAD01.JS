@@ -1,0 +1,1 @@
+function ISMG6E00J4680005729NFEAD01(){var i=0;this.Title="Sunshade Switch Test";this.Name="SMG6E00J4680005729NFEAD01";this.Width=475;this.Height=465;this.CallOut=new Array;}

@@ -1,0 +1,1 @@
+function ISMG6E50F00000057111KDAD19(){var i=0;this.Title=" Installation";this.Name="SMG6E50F00000057111KDAD19";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(375,28,13,0,"'Arial','sans-serif'",0,"<b>A<br>12 x 1.25 mm<br>64 N&middot;m<br>(6.5 kgf&middot;m,<br>47 lbf&middot;ft)</b>");}

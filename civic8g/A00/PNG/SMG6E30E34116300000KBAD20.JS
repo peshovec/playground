@@ -1,0 +1,1 @@
+function ISMG6E30E34116300000KBAD20(){var i=0;this.Title=" Release Bearing Replacement";this.Name="SMG6E30E34116300000KBAD20";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(394,270,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(239,289,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E30A14666300000KAAD03(){var i=0;this.Title="Cylinder Head Rocker Arm Assembly Removal";this.Name="SMG6E30A14666300000KAAD03";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(43,100,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(430,123,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

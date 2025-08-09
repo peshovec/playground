@@ -1,0 +1,1 @@
+function ISMG6E3AK72200000000BBAD02(){var i=0;this.Title=" How to Clear DTCs";this.Name="SMG6E3AK72200000000BBAD02";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(260,277,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(39,304,13,0,"'Arial','sans-serif'",0,"<b></b>*: This illustration shows RHD model.");}

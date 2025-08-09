@@ -1,0 +1,1 @@
+function ISMG6E54D14300014701KBAD06(){var i=0;this.Title=" RHD Type";this.Name="SMG6E54D14300014701KBAD06";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(186,340,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

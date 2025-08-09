@@ -1,0 +1,1 @@
+function ISMG6E50E34100041701MDAD05(){var i=0;this.Title="MTF Inspection and Replacement";this.Name="SMG6E50E34100041701MDAD05";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(265,18,13,0,"'Arial','sans-serif'",0,"<b>A<br>44 N&middot;m<br>(4.5 kgf&middot;m, 33 lbf&middot;ft)</b>");this.CallOut[i++]=FS4(124,68,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

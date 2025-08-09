@@ -1,0 +1,1 @@
+function ISMG6E50A14100012903FAAD01(){var i=0;this.Title="Alternator and Regulator Circuit Troubleshooting";this.Name="SMG6E50A14100012903FAAD01";this.Width=475;this.Height=465;this.CallOut=new Array;}

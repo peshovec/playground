@@ -1,0 +1,1 @@
+function ISMG6E00J34300044031FEAD01(){var i=0;this.Title="Power Mirror Actuator Test";this.Name="SMG6E00J34300044031FEAD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(336,55,13,0,"'Arial','sans-serif'",0,"<b></b>Wire side of<br>female terminals");this.CallOut[i++]=FS4(57,306,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

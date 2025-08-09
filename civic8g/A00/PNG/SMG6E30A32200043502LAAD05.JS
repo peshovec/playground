@@ -1,0 +1,1 @@
+function ISMG6E30A32200043502LAAD05(){var i=0;this.Title=" Oil Pump Inspection";this.Name="SMG6E30A32200043502LAAD05";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(139,72,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(407,118,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

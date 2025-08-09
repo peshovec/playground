@@ -1,0 +1,1 @@
+function ISMG6E00D14300014791MDAD20(){var i=0;this.Title=" Replacement";this.Name="SMG6E00D14300014791MDAD20";this.Width=475;this.Height=738;this.CallOut=new Array;this.CallOut[i++]=FS4(395,134,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(412,292,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(434,372,13,0,"'Arial','sans-serif'",0,"<b>C</b>");}

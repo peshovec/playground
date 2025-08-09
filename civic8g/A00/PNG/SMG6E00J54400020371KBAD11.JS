@@ -1,0 +1,1 @@
+function ISMG6E00J54400020371KBAD11(){var i=0;this.Title="Rear Door Glass and Regulator Replacement";this.Name="SMG6E00J54400020371KBAD11";this.Width=475;this.Height=449;this.CallOut=new Array;this.CallOut[i++]=FS4(291,308,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(78,159,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

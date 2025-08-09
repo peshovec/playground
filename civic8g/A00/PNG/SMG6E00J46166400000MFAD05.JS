@@ -1,0 +1,1 @@
+function ISMG6E00J46166400000MFAD05(){var i=0;this.Title="Rear Seat Disassembly/Reassembly";this.Name="SMG6E00J46166400000MFAD05";this.Width=475;this.Height=497;this.CallOut=new Array;this.CallOut[i++]=FS4(111,286,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(84,228,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

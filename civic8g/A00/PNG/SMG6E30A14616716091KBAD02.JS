@@ -1,0 +1,1 @@
+function ISMG6E30A14616716091KBAD02(){var i=0;this.Title=" Removal";this.Name="SMG6E30A14616716091KBAD02";this.Width=475;this.Height=353;this.CallOut=new Array;}

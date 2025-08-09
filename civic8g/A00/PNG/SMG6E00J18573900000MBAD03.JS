@@ -1,0 +1,1 @@
+function ISMG6E00J18573900000MBAD03(){var i=0;this.Title="Tailgate Adjustment";this.Name="SMG6E00J18573900000MBAD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(114,24,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

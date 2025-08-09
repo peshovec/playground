@@ -1,0 +1,1 @@
+function ISMG6E00J16126721301KBAD17(){var i=0;this.Title=" With Super Locking";this.Name="SMG6E00J16126721301KBAD17";this.Width=475;this.Height=529;this.CallOut=new Array;this.CallOut[i++]=FS4(123,500,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

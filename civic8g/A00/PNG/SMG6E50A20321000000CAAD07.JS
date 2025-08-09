@@ -1,0 +1,1 @@
+function ISMG6E50A20321000000CAAD07(){var i=0;this.Title=" Engine Oil Level Sensor";this.Name="SMG6E50A20321000000CAAD07";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(336,128,13,0,"'Arial','sans-serif'",0,"<b>O-RING</b>");}

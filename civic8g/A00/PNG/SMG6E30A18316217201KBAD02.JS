@@ -1,0 +1,1 @@
+function ISMG6E30A18316217201KBAD02(){var i=0;this.Title=" Connecting Rod Big End Bore Code Locations";this.Name="SMG6E30A18316217201KBAD02";this.Width=475;this.Height=336;this.CallOut=new Array;}

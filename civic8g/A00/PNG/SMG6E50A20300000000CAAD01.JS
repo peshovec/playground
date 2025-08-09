@@ -1,0 +1,1 @@
+function ISMG6E50A20300000000CAAD01(){var i=0;this.Title=" ECM Inputs and Outputs at Connector No. 1 (96P)";this.Name="SMG6E50A20300000000CAAD01";this.Width=950;this.Height=319;this.CallOut=new Array;this.CallOut[i++]=FS4(333,256,12,0,"'Arial','sans-serif'",0,"<b></b>Terminal side of female terminals");}

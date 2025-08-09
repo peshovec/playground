@@ -1,0 +1,1 @@
+function ISMG6E40A32200043711KCAD01(){var i=0;this.Title="Engine Oil/Air Separator Installation";this.Name="SMG6E40A32200043711KCAD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(226,354,13,0,"'Arial','sans-serif'",0,"<b></b>Apply liquid gasket<br>along the broken line.");}

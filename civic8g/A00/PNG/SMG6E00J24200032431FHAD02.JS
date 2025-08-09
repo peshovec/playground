@@ -1,0 +1,1 @@
+function ISMG6E00J24200032431FHAD02(){var i=0;this.Title="Horn Test/Replacement";this.Name="SMG6E00J24200032431FHAD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(370,276,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(412,140,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

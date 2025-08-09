@@ -1,0 +1,1 @@
+function ISMG6E50E3415033911FMAAD01(){var i=0;this.Title=" 1st/2nd, 3rd/4th, 5th/6th:";this.Name="SMG6E50E3415033911FMAAD01";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(201,332,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(375,7,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00J36200000000BBAD06(){var i=0;this.Title=" Monitor Check";this.Name="SMG6E00J36200000000BBAD06";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(137,77,15,0,"'Arial','sans-serif'",0,"<b>White Raster  </b>");this.CallOut[i++]=FS4(341,76,14,0,"'Arial','sans-serif'",0,"<b>Return</b>");}

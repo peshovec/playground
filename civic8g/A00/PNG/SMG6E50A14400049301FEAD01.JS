@@ -1,0 +1,1 @@
+function ISMG6E50A14400049301FEAD01(){var i=0;this.Title="Radiator Expansion Tank Test";this.Name="SMG6E50A14400049301FEAD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(143,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(287,24,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

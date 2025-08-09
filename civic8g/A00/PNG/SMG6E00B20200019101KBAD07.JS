@@ -1,0 +1,1 @@
+function ISMG6E00B20200019101KBAD07(){var i=0;this.Title=" Disassembly/Inspection";this.Name="SMG6E00B20200019101KBAD07";this.Width=475;this.Height=449;this.CallOut=new Array;}

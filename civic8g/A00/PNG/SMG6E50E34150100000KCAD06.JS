@@ -1,0 +1,1 @@
+function ISMG6E50E34150100000KCAD06(){var i=0;this.Title="M/T Assembly Installation";this.Name="SMG6E50E34150100000KCAD06";this.Width=475;this.Height=320;this.CallOut=new Array;}

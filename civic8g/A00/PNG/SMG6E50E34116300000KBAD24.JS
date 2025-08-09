@@ -1,0 +1,1 @@
+function ISMG6E50E34116300000KBAD24(){var i=0;this.Title=" Pressure Plate and Clutch Disc Removal";this.Name="SMG6E50E34116300000KBAD24";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(345,118,13,0,"'Arial','sans-serif'",0,"<b>070AF-SMGC110</b>");this.CallOut[i++]=FS4(21,278,13,0,"'Arial','sans-serif'",0,"<b>070AF-SMGC120</b>");}

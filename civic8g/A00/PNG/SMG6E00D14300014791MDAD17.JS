@@ -1,0 +1,1 @@
+function ISMG6E00D14300014791MDAD17(){var i=0;this.Title=" Replacement";this.Name="SMG6E00D14300014791MDAD17";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(29,97,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(131,273,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

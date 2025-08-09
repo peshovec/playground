@@ -1,0 +1,1 @@
+function ISMG6E50G10100012012FAAD03(){var i=0;this.Title="A/C Compressor Clutch Circuit Troubleshooting";this.Name="SMG6E50G10100012012FAAD03";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(54,32,13,0,"'Arial','sans-serif'",0,"<b>A/C COMPRESSOR CLUTCH RELAY 4P SOCKET</b>");this.CallOut[i++]=FS4(264,205,13,0,"'Arial','sans-serif'",0,"<b>WHT</b>");}

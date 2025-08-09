@@ -1,0 +1,1 @@
+function ISMG6E30A14666300000KCAD01(){var i=0;this.Title="Cylinder Head Rocker Arm Assembly Installation";this.Name="SMG6E30A14666300000KCAD01";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(67,85,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(403,114,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

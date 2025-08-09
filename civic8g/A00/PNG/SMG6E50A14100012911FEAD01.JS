@@ -1,0 +1,1 @@
+function ISMG6E50A14100012911FEAD01(){var i=0;this.Title="Alternator Removal and Installation";this.Name="SMG6E50A14100012911FEAD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(10,218,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(12,144,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

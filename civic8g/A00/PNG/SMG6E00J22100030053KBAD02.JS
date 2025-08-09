@@ -1,0 +1,1 @@
+function ISMG6E00J22100030053KBAD02(){var i=0;this.Title=" Speedometer";this.Name="SMG6E00J22100030053KBAD02";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(118,323,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(369,17,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

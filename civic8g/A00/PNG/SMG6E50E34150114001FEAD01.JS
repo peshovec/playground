@@ -1,0 +1,1 @@
+function ISMG6E50E34150114001FEAD01(){var i=0;this.Title="Back-up Light Switch Test";this.Name="SMG6E50E34150114001FEAD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(108,251,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(345,189,13,0,"'Arial','sans-serif'",0,"<b>29 N&middot;m<br>(3.0 kgf&middot;m, <br>22 lbf&middot;ft)</b>");}

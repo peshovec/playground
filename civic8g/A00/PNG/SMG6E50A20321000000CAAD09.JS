@@ -1,0 +1,1 @@
+function ISMG6E50A20321000000CAAD09(){var i=0;this.Title=" Vacuum Pump";this.Name="SMG6E50A20321000000CAAD09";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(379,120,13,0,"'Arial','sans-serif'",0,"<b>VANE</b>");this.CallOut[i++]=FS4(34,16,13,0,"'Arial','sans-serif'",0,"<b>VACUUM</b>");}

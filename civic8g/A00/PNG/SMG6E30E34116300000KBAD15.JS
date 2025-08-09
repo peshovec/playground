@@ -1,0 +1,1 @@
+function ISMG6E30E34116300000KBAD15(){var i=0;this.Title=" Clutch Disc and Pressure Plate Installation";this.Name="SMG6E30E34116300000KBAD15";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(362,21,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(384,169,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

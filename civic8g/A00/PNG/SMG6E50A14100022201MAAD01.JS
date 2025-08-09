@@ -1,0 +1,1 @@
+function ISMG6E50A14100022201MAAD01(){var i=0;this.Title="Drive Belt Inspection";this.Name="SMG6E50A14100022201MAAD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(434,107,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(336,243,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

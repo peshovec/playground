@@ -1,0 +1,1 @@
+function ISMG6E00J46166400000KDAD05(){var i=0;this.Title="Rear Seat Removal/Installation";this.Name="SMG6E00J46166400000KDAD05";this.Width=475;this.Height=497;this.CallOut=new Array;this.CallOut[i++]=FS4(73,77,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

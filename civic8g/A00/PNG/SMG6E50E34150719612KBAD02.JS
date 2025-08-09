@@ -1,0 +1,1 @@
+function ISMG6E50E34150719612KBAD02(){var i=0;this.Title="M/T Differential Carrier Bearing Replacement";this.Name="SMG6E50E34150719612KBAD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(90,127,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(393,80,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

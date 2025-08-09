@@ -1,0 +1,1 @@
+function ISMG6E50A20326427391MAAD01(){var i=0;this.Title="Fuel Breather Line and Suction Line Inspection";this.Name="SMG6E50A20326427391MAAD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(360,134,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(268,30,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

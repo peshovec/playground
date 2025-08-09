@@ -1,0 +1,1 @@
+function SetLang(){var i=0;gLng[i++]=new FSL("A","English");}

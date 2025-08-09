@@ -1,0 +1,1 @@
+function ISMG6E30A18316600000KCAD02(){var i=0;this.Title="Crankshaft/Oil Seal (Transmission End) Installation";this.Name="SMG6E30A18316600000KCAD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(335,70,13,0,"'Arial','sans-serif'",0,"<b>90 &deg;</b>");}

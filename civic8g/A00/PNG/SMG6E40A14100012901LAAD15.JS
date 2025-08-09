@@ -1,0 +1,1 @@
+function ISMG6E40A14100012901LAAD15(){var i=0;this.Title=" Alternator Brush Inspection";this.Name="SMG6E40A14100012901LAAD15";this.Width=475;this.Height=397;this.CallOut=new Array;}

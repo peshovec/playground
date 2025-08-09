@@ -1,0 +1,1 @@
+function ISMG6E50A20326427731KDAD01(){var i=0;this.Title="Fuel Hand Primer Removal/Installation";this.Name="SMG6E50A20326427731KDAD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(113,286,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

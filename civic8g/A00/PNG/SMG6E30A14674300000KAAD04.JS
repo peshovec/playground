@@ -1,0 +1,1 @@
+function ISMG6E30A14674300000KAAD04(){var i=0;this.Title="Cam Chain Removal";this.Name="SMG6E30A14674300000KAAD04";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(85,354,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(53,198,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

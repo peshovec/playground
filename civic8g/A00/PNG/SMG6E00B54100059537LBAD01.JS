@@ -1,0 +1,1 @@
+function ISMG6E00B54100059537LBAD01(){var i=0;this.Title="The Extraction of the Fluid Sealant of the Tyre Inflator";this.Name="SMG6E00B54100059537LBAD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(158,283,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(247,61,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

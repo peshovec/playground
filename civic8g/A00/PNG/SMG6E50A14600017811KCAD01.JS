@@ -1,0 +1,1 @@
+function ISMG6E50A14600017811KCAD01(){var i=0;this.Title="Cylinder Head Cover Installation";this.Name="SMG6E50A14600017811KCAD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(372,340,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(151,17,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

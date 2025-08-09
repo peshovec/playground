@@ -1,0 +1,1 @@
+function ISMG6E00J32133631092FEAD01(){var i=0;this.Title="Headlight Adjuster Motor Test";this.Name="SMG6E00J32133631092FEAD01";this.Width=950;this.Height=479;this.CallOut=new Array;this.CallOut[i++]=FS4(554,447,12,0,"'Arial','sans-serif'",0,"<b></b>Wire side of female terminals");}

@@ -1,0 +1,1 @@
+function ISMG6E00J18573958301KBAD01(){var i=0;this.Title="Tailgate Latch Replacement";this.Name="SMG6E00J18573958301KBAD01";this.Width=475;this.Height=529;this.CallOut=new Array;this.CallOut[i++]=FS4(345,259,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(331,355,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E50A32200043513KBAD07(){var i=0;this.Title=" Installation";this.Name="SMG6E50A32200043513KBAD07";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(236,30,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(145,322,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

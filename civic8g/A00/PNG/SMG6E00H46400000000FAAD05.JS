@@ -1,0 +1,1 @@
+function ISMG6E00H46400000000FAAD05(){var i=0;this.Title=" Faulty seat belt reminder light";this.Name="SMG6E00H46400000000FAAD05";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(53,122,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

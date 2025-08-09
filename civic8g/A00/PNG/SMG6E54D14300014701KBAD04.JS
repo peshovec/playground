@@ -1,0 +1,1 @@
+function ISMG6E54D14300014701KBAD04(){var i=0;this.Title=" RHD Type";this.Name="SMG6E54D14300014701KBAD04";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(289,19,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(113,367,13,0,"'Arial','sans-serif'",0,"<b>6 x 1.0 mm<br>9.8 N&middot;m (1.0 kgf&middot;m, 7.2 lbf&middot;ft)</b>");}

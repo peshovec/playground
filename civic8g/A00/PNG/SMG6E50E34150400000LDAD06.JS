@@ -1,0 +1,1 @@
+function ISMG6E50E34150400000LDAD06(){var i=0;this.Title="M/T Mainshaft Reassembly";this.Name="SMG6E50E34150400000LDAD06";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(140,213,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(320,144,13,0,"'Arial','sans-serif'",0,"<b>07746-0030100</b>");}

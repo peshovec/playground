@@ -1,0 +1,1 @@
+function ISMG6E00G24114000000KBAD02(){var i=0;this.Title="Heater Unit/Core Replacement";this.Name="SMG6E00G24114000000KBAD02";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(72,337,13,0,"'Arial','sans-serif'",0,"<b>8 x 1.25 mm<br>12.3 N&middot;m <br>(1.3 kgf&middot;m, 9.0 lbf&middot;ft)</b>");}

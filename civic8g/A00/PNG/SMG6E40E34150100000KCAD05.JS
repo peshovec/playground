@@ -1,0 +1,1 @@
+function ISMG6E40E34150100000KCAD05(){var i=0;this.Title="M/T Assembly Installation";this.Name="SMG6E40E34150100000KCAD05";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(29,14,12,0,"'Arial','sans-serif'",0,"<b>10 x 1.25 mm<br>39 N&middot;m<br>(4.0 kgf&middot;m, 29 lbf&middot;ft)</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E50G10100012033FAAD02(){var i=0;this.Title="A/C Condenser Fan High Speed Circuit Troubleshooting";this.Name="SMG6E50G10100012033FAAD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(281,109,13,0,"'Arial','sans-serif'",0,"<b>BLK</b>");this.CallOut[i++]=FS4(104,32,13,0,"'Arial','sans-serif'",0,"<b>FAN CONTROL RELAY 5P SOCKET</b>");}

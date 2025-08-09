@@ -1,0 +1,1 @@
+function ISMG6E13K791000R121XFAAD02(){var i=0;this.Title="DTC Troubleshooting: 12-1x";this.Name="SMG6E13K791000R121XFAAD02";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(39,16,13,0,"'Arial','sans-serif'",0,"<b>COMBINATION SWITCH<br>WIRE HARNESS<br>4P CONNECTOR</b>");this.CallOut[i++]=FS4(107,178,13,0,"'Arial','sans-serif'",0,"<b>070AZ-SNA0200</b>");}

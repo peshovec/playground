@@ -1,0 +1,1 @@
+function ISMG6E00J26220230103KDAD02(){var i=0;this.Title="Glove Box Lid Removal/Installation";this.Name="SMG6E00J26220230103KDAD02";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(30,137,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(405,52,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

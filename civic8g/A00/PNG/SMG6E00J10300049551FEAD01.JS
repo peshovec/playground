@@ -1,0 +1,1 @@
+function ISMG6E00J10300049551FEAD01(){var i=0;this.Title="Radio Remote Switch Test";this.Name="SMG6E00J10300049551FEAD01";this.Width=475;this.Height=449;this.CallOut=new Array;this.CallOut[i++]=FS4(292,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(377,29,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00B44100019102KBAD02(){var i=0;this.Title=" Removal";this.Name="SMG6E00B44100019102KBAD02";this.Width=475;this.Height=433;this.CallOut=new Array;this.CallOut[i++]=FS4(207,384,13,0,"'Arial','sans-serif'",0,"<b>A<br>10 x 1.25 mm</b>");}

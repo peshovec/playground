@@ -1,0 +1,1 @@
+function ISMG6E3AD14300014701MAAD01(){var i=0;this.Title=" Leak Test";this.Name="SMG6E3AD14300014701MAAD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(212,14,13,0,"'Arial','sans-serif'",0,"<b>A<br>07404-5790301</b>");this.CallOut[i++]=FS4(296,241,13,0,"'Arial','sans-serif'",0,"<b>07410-5790501</b>");}

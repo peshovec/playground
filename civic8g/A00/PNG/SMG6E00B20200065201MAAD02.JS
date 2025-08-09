@@ -1,0 +1,1 @@
+function ISMG6E00B20200065201MAAD02(){var i=0;this.Title=" Rear:";this.Name="SMG6E00B20200065201MAAD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(377,90,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(7,20,13,0,"'Arial','sans-serif'",0,"<b>108 N&middot;m (11.0 kgf&middot;m, 79.6 lbf&middot;ft)</b>");}

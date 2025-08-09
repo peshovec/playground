@@ -1,0 +1,1 @@
+function ISMG6E00R31100000000YDAD77(){var i=0;this.Title="Rear Floor and Rear Floor Cross-member Installation";this.Name="SMG6E00R31100000000YDAD77";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(369,62,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(455,262,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

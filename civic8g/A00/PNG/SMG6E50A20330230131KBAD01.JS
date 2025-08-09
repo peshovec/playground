@@ -1,0 +1,1 @@
+function ISMG6E50A20330230131KBAD01(){var i=0;this.Title="Glow Plug Replacement";this.Name="SMG6E50A20330230131KBAD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(267,21,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(315,86,13,0,"'Arial','sans-serif'",0,"<b>B<br>18 N&middot;m (1.8 kgf&middot;m, <br>13 lbf&middot;ft)</b>");}

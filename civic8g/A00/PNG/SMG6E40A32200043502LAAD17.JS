@@ -1,0 +1,1 @@
+function ISMG6E40A32200043502LAAD17(){var i=0;this.Title=" Installation";this.Name="SMG6E40A32200043502LAAD17";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(304,16,13,0,"'Arial','sans-serif'",0,"<b>12 x 1.25 mm<br>74 N&middot;m <br>(7.5 kgf&middot;m, 54 lbf&middot;ft)</b>");}

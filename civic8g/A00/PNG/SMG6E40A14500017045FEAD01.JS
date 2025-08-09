@@ -1,0 +1,1 @@
+function ISMG6E40A14500017045FEAD01(){var i=0;this.Title="Clutch Pedal Position Switch Test";this.Name="SMG6E40A14500017045FEAD01";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(310,141,13,0,"'Arial','sans-serif'",0,"<b></b>Terminal side of <br>male terminals");}

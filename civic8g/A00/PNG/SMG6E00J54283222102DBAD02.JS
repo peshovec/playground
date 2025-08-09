@@ -1,0 +1,1 @@
+function ISMG6E00J54283222102DBAD02(){var i=0;this.Title="Left and Right Rear Door Wire Harnesses Locations";this.Name="SMG6E00J54283222102DBAD02";this.Width=950;this.Height=543;this.CallOut=new Array;this.CallOut[i++]=FS4(372,512,12,0,"'Arial','sans-serif'",0,"<b>LEFT REAR DOOR WIRE HARNESS</b>");}

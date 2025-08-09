@@ -1,0 +1,1 @@
+function ISMG6E50A20321034595MBAD01(){var i=0;this.Title="Injector Quantity Adjustment";this.Name="SMG6E50A20321034595MBAD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(245,266,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(39,291,13,0,"'Arial','sans-serif'",0,"<b></b>*: This illustration shows RHD model.");}

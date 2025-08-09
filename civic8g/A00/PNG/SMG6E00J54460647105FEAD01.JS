@@ -1,0 +1,1 @@
+function ISMG6E00J54460647105FEAD01(){var i=0;this.Title="Power Window Rear Motor Test";this.Name="SMG6E00J54460647105FEAD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(297,369,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(331,87,13,0,"'Arial','sans-serif'",0,"<b></b>Terminal side of<br>male terminals");}

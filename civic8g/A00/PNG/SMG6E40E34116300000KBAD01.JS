@@ -1,0 +1,1 @@
+function ISMG6E40E34116300000KBAD01(){var i=0;this.Title=" SPHM Manual TransmissionPressure Plate and Clutch Disc Removal";this.Name="SMG6E40E34116300000KBAD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(85,230,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

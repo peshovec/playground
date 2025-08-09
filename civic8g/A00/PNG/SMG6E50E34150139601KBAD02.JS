@@ -1,0 +1,1 @@
+function ISMG6E50E34150139601KBAD02(){var i=0;this.Title="M/T Clutch Housing Mainshaft Oil Seal Replacement";this.Name="SMG6E50E34150139601KBAD02";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(340,122,13,0,"'Arial','sans-serif'",0,"<b>07749-0010000</b>");this.CallOut[i++]=FS4(340,161,13,0,"'Arial','sans-serif'",0,"<b>07746-0010300</b>");}

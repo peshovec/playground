@@ -1,0 +1,1 @@
+function ISMG6E00R31100000000YDAD65(){var i=0;this.Title="Rear Side Outer Panel Installation";this.Name="SMG6E00R31100000000YDAD65";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(326,37,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(444,191,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

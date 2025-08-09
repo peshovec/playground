@@ -1,0 +1,1 @@
+function ISMG6E50A18223800000KCAD06(){var i=0;this.Title="Engine Installation";this.Name="SMG6E50A18223800000KCAD06";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(38,387,13,0,"'Arial','sans-serif'",0,"<b>14 x 1.5 mm<br>106 N&middot;m <br>(10.8 kgf&middot;m, 78.1 lbf&middot;ft)<br></b>Replace.");}

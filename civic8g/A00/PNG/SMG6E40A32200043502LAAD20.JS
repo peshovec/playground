@@ -1,0 +1,1 @@
+function ISMG6E40A32200043502LAAD20(){var i=0;this.Title=" Installation";this.Name="SMG6E40A32200043502LAAD20";this.Width=475;this.Height=353;this.CallOut=new Array;}

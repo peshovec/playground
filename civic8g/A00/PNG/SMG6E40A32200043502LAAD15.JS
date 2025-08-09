@@ -1,0 +1,1 @@
+function ISMG6E40A32200043502LAAD15(){var i=0;this.Title=" Installation";this.Name="SMG6E40A32200043502LAAD15";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(351,291,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

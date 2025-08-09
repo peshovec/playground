@@ -1,0 +1,1 @@
+function ISMG6E50E34150100000KAAD22(){var i=0;this.Title="M/T Assembly Removal";this.Name="SMG6E50E34150100000KAAD22";this.Width=475;this.Height=385;this.CallOut=new Array;}

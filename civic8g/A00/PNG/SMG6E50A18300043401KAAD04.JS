@@ -1,0 +1,1 @@
+function ISMG6E50A18300043401KAAD04(){var i=0;this.Title="Engine Oil Pan Removal";this.Name="SMG6E50A18300043401KAAD04";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(271,355,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(435,277,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

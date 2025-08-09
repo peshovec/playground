@@ -1,0 +1,1 @@
+function ISMG6E50A14400017301KBAD03(){var i=0;this.Title="Coolant Replacement";this.Name="SMG6E50A14400017301KBAD03";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(247,16,13,0,"'Arial','sans-serif'",0,"<b>A<br>14 x 1.25 mm<br>39 N&middot;m (4.0 kgf&middot;m, 29 lbf&middot;ft)</b>");}

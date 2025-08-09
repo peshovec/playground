@@ -1,0 +1,1 @@
+function ISMG6E50A18223800000KAAD11(){var i=0;this.Title="Engine Removal";this.Name="SMG6E50A18223800000KAAD11";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(102,321,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(374,339,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

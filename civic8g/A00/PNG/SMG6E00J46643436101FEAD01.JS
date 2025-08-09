@@ -1,0 +1,1 @@
+function ISMG6E00J46643436101FEAD01(){var i=0;this.Title="Keyless Transmitter Test";this.Name="SMG6E00J46643436101FEAD01";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(448,182,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(463,40,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

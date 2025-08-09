@@ -1,0 +1,1 @@
+function ISMG6E50A20326427702FEAD02(){var i=0;this.Title="Fuel Gauge Sending Unit Test";this.Name="SMG6E50A20326427702FEAD02";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(353,156,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(349,56,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

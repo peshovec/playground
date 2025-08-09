@@ -1,0 +1,1 @@
+function ISMG6E00J54283212131DBAD01(){var i=0;this.Title="A/C Wire Harness Locations";this.Name="SMG6E00J54283212131DBAD01";this.Width=950;this.Height=783;this.CallOut=new Array;this.CallOut[i++]=FS4(428,701,12,0,"'Arial','sans-serif'",0,"<b>A/C WIRE HARNESS</b>");this.CallOut[i++]=FS4(16,746,12,0,"'Arial','sans-serif'",0,"<b></b>RHD type is shown, LHD type is similar.");}

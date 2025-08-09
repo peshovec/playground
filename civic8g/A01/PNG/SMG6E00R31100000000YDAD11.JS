@@ -1,0 +1,1 @@
+function ISMG6E00R31100000000YDAD11(){var i=0;this.Title="Front Bulkhead Installation";this.Name="SMG6E00R31100000000YDAD11";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(74,55,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(353,357,13,0,"'Arial','sans-serif'",0,"<b>C</b>");}

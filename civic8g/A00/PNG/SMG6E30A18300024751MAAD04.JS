@@ -1,0 +1,1 @@
+function ISMG6E30A18300024751MAAD04(){var i=0;this.Title="Engine Block and Piston Inspection";this.Name="SMG6E30A18300024751MAAD04";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(141,305,13,0,"'Arial','sans-serif'",0,"<b>PRECISION STRAIGHT EDGE</b>");}

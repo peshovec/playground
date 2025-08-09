@@ -1,0 +1,1 @@
+function ISMG6E50J26220200000KDAD10(){var i=0;this.Title=" Passenger's side";this.Name="SMG6E50J26220200000KDAD10";this.Width=475;this.Height=561;this.CallOut=new Array;this.CallOut[i++]=FS4(134,287,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(268,514,13,0,"'Arial','sans-serif'",0,"<b>21 mm (0.83 in.)</b>");}

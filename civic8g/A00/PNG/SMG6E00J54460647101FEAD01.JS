@@ -1,0 +1,1 @@
+function ISMG6E00J54460647101FEAD01(){var i=0;this.Title=" Motor Test";this.Name="SMG6E00J54460647101FEAD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(135,253,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00J10300000000CAAD07(){var i=0;this.Title=" Interface Dial";this.Name="SMG6E00J10300000000CAAD07";this.Width=950;this.Height=415;this.CallOut=new Array;}

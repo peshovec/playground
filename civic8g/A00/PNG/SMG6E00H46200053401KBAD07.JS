@@ -1,0 +1,1 @@
+function ISMG6E00H46200053401KBAD07(){var i=0;this.Title=" Front Seat Belt";this.Name="SMG6E00H46200053401KBAD07";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(321,17,13,0,"'Arial','sans-serif'",0,"<b>A<br>7/16-20 UNF<br>32 N&middot;m <br>(3.3 kgf&middot;m, 24 lbf&middot;ft)</b>");}

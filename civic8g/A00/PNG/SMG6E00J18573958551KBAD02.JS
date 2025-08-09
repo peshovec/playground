@@ -1,0 +1,1 @@
+function ISMG6E00J18573958551KBAD02(){var i=0;this.Title="Tailgate Support Strut Replacement";this.Name="SMG6E00J18573958551KBAD02";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(374,101,13,0,"'Arial','sans-serif'",0,"<b>A<br>6 x 1.0 mm<br>9.8 N&middot;m<br>(1.0 kgf&middot;m,<br>7.2 lbf&middot;ft)</b>");}

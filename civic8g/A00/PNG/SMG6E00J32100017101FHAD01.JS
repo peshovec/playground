@@ -1,0 +1,1 @@
+function ISMG6E00J32100017101FHAD01(){var i=0;this.Title="Combination Light Switch Test/Replacement";this.Name="SMG6E00J32100017101FHAD01";this.Width=950;this.Height=431;this.CallOut=new Array;this.CallOut[i++]=FS4(547,17,12,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(405,62,12,0,"'Arial','sans-serif'",0,"<b>B</b>");}

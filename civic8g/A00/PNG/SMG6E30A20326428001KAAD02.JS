@@ -1,0 +1,1 @@
+function ISMG6E30A20326428001KAAD02(){var i=0;this.Title="Fuel Line/Quick-Connect Fitting Removal";this.Name="SMG6E30A20326428001KAAD02";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(107,257,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

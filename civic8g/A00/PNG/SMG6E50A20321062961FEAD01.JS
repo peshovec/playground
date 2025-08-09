@@ -1,0 +1,1 @@
+function ISMG6E50A20321062961FEAD01(){var i=0;this.Title="Vacuum Pump Test";this.Name="SMG6E50A20321062961FEAD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(421,266,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(442,73,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

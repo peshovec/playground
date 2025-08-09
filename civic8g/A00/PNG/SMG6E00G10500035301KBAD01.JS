@@ -1,0 +1,1 @@
+function ISMG6E00G10500035301KBAD01(){var i=0;this.Title="In-car Temperature Sensor Replacement";this.Name="SMG6E00G10500035301KBAD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(452,100,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(20,281,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

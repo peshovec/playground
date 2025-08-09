@@ -1,0 +1,1 @@
+function ISMG6E3AJ54200014401FEAD01(){var i=0;this.Title=" Test Equipment Required";this.Name="SMG6E3AJ54200014401FEAD01";this.Width=475;this.Height=465;this.CallOut=new Array;this.CallOut[i++]=FS4(240,78,13,0,"'Arial','sans-serif'",0,"<b>BATTERY CODE</b>");this.CallOut[i++]=FS4(154,18,13,0,"'Arial','sans-serif'",0,"<b>&middot; 38B19<br>&middot; 46B24</b>");}

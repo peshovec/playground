@@ -1,0 +1,1 @@
+function ISMG6E30E3415033911FMAAD04(){var i=0;this.Title="M/T Shift Fork Clearance Inspection";this.Name="SMG6E30E3415033911FMAAD04";this.Width=475;this.Height=320;this.CallOut=new Array;}

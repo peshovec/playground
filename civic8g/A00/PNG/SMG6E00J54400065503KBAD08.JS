@@ -1,0 +1,1 @@
+function ISMG6E00J54400065503KBAD08(){var i=0;this.Title="Windshield Molding Replacement";this.Name="SMG6E00J54400065503KBAD08";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(350,45,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(346,115,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

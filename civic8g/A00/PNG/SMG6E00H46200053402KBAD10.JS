@@ -1,0 +1,1 @@
+function ISMG6E00H46200053402KBAD10(){var i=0;this.Title=" Right Seat Belt Buckle";this.Name="SMG6E00H46200053402KBAD10";this.Width=475;this.Height=336;this.CallOut=new Array;this.CallOut[i++]=FS4(424,144,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

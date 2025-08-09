@@ -1,0 +1,1 @@
+function ISMG6E00F00000057145KDAD07(){var i=0;this.Title=" Installation";this.Name="SMG6E00F00000057145KDAD07";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(233,256,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(330,196,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(233,256,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

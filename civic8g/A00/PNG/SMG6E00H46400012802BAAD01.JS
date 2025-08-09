@@ -1,0 +1,1 @@
+function ISMG6E00H46400012802BAAD01(){var i=0;this.Title=" Driver's Airbag";this.Name="SMG6E00H46400012802BAAD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(124,263,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(396,236,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00J26351559905FEAD01(){var i=0;this.Title="Trip Meter Select/Reset/Information Switch Test";this.Name="SMG6E00J26351559905FEAD01";this.Width=475;this.Height=481;this.CallOut=new Array;this.CallOut[i++]=FS4(128,448,13,0,"'Arial','sans-serif'",0,"<b></b>Wire side of female terminals");this.CallOut[i++]=FS4(16,212,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E40A20324100000CAAD01(){var i=0;this.Title=" Accelerator Pedal Position (APP) Sensor";this.Name="SMG6E40A20324100000CAAD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(17,28,13,0,"'Arial','sans-serif'",0,"<b>APP SENSOR A/B</b>");this.CallOut[i++]=FS4(342,181,13,0,"'Arial','sans-serif'",0,"<b>ACCELERATOR<br>PEDAL MODULE</b>");}

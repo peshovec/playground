@@ -1,0 +1,1 @@
+function ISMG6E00F00000057161KAAD01(){var i=0;this.Title="Steering Wheel Removal";this.Name="SMG6E00F00000057161KAAD01";this.Width=475;this.Height=401;this.CallOut=new Array;this.CallOut[i++]=FS4(118,16,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(143,366,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00J4680005729AKDAD07(){var i=0;this.Title="Sunshade Roll Blind Removal/Installation";this.Name="SMG6E00J4680005729AKDAD07";this.Width=475;this.Height=375;this.CallOut=new Array;this.CallOut[i++]=FS4(51,107,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(338,46,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

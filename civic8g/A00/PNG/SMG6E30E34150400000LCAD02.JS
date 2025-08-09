@@ -1,0 +1,1 @@
+function ISMG6E30E34150400000LCAD02(){var i=0;this.Title="M/T Mainshaft Disassembly";this.Name="SMG6E30E34150400000LCAD02";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(386,302,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(390,151,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

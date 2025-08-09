@@ -1,0 +1,1 @@
+function ISMG6E00B44100032511KBAD02(){var i=0;this.Title="Rear Hub Bearing Unit Replacement";this.Name="SMG6E00B44100032511KBAD02";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(355,338,13,0,"'Arial','sans-serif'",0,"<b>A<br>108 N&middot;m <br>(11.0 kgf&middot;m,<br>79.6 lbf&middot;ft)</b>");}

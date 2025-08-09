@@ -1,0 +1,1 @@
+function ISMG6E00J10300027201KBAD02(){var i=0;this.Title=" Tweeter";this.Name="SMG6E00J10300027201KBAD02";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(101,27,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(32,239,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

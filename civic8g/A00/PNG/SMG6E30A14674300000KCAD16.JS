@@ -1,0 +1,1 @@
+function ISMG6E30A14674300000KCAD16(){var i=0;this.Title="Cam Chain Installation";this.Name="SMG6E30A14674300000KCAD16";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(39,14,13,0,"'Arial','sans-serif'",0,"<b>8 x 1.25 mm<br>24 N&middot;m<br>(2.4 kgf&middot;m, 17 lbf&middot;ft)</b>");}

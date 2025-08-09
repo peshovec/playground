@@ -1,0 +1,1 @@
+function ISMG6E50A18224059806KBAD04(){var i=0;this.Title="Transmission Mount Replacement";this.Name="SMG6E50A18224059806KBAD04";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(374,201,13,0,"'Arial','sans-serif'",0,"<b>12 x 1.25 mm<br>103 N&middot;m<br>(10.5 kgf&middot;m, <br>76 lbf&middot;ft)</b>");}

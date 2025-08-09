@@ -1,0 +1,1 @@
+function ISMG6E3AE16226600000LDAD25(){var i=0;this.Title=" Outboard Joint Side";this.Name="SMG6E3AE16226600000LDAD25";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(351,34,13,0,"'Arial','sans-serif'",0,"<b>6.0 mm <br>(0.24 in.) MAX</b>");this.CallOut[i++]=FS4(125,284,13,0,"'Arial','sans-serif'",0,"<b>3.0 mm (0.12 in.) MAX</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E30E34151150941MFAD01(){var i=0;this.Title="M/T Reverse Lockout Solenoid Disassembly/Reassembly";this.Name="SMG6E30E34151150941MFAD01";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(402,330,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(157,260,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

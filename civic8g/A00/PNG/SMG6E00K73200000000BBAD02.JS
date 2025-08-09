@@ -1,0 +1,1 @@
+function ISMG6E00K73200000000BBAD02(){var i=0;this.Title=" The LCD Segment Check";this.Name="SMG6E00K73200000000BBAD02";this.Width=950;this.Height=159;this.CallOut=new Array;}

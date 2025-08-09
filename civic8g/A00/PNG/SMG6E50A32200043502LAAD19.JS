@@ -1,0 +1,1 @@
+function ISMG6E50A32200043502LAAD19(){var i=0;this.Title=" Balancer Shaft Inspection";this.Name="SMG6E50A32200043502LAAD19";this.Width=475;this.Height=369;this.CallOut=new Array;}

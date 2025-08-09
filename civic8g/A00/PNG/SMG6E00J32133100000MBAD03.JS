@@ -1,0 +1,1 @@
+function ISMG6E00J32133100000MBAD03(){var i=0;this.Title="Headlight Adjustment";this.Name="SMG6E00J32133100000MBAD03";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(97,97,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(176,114,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

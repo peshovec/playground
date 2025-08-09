@@ -1,0 +1,1 @@
+function ISMG6E00H46400000000AAAD25(){var i=0;this.Title=" Side Curtain Airbag";this.Name="SMG6E00H46400000000AAAD25";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(188,339,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00J54400025711KBAD08(){var i=0;this.Title="Extra Window Replacement";this.Name="SMG6E00J54400025711KBAD08";this.Width=475;this.Height=362;this.CallOut=new Array;this.CallOut[i++]=FS4(57,73,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

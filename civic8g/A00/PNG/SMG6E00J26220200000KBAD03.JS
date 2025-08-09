@@ -1,0 +1,1 @@
+function ISMG6E00J26220200000KBAD03(){var i=0;this.Title=" Passenger's side";this.Name="SMG6E00J26220200000KBAD03";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(268,337,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(311,338,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

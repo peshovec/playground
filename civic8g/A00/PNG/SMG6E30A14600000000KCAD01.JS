@@ -1,0 +1,1 @@
+function ISMG6E30A14600000000KCAD01(){var i=0;this.Title="Cylinder Head Installation";this.Name="SMG6E30A14600000000KCAD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(56,16,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(406,388,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E30A26100034101KDAD02(){var i=0;this.Title="Ignition Coil Removal/Installation";this.Name="SMG6E30A26100034101KDAD02";this.Width=475;this.Height=465;this.CallOut=new Array;}

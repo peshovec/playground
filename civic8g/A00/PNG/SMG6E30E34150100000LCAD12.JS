@@ -1,0 +1,1 @@
+function ISMG6E30E34150100000LCAD12(){var i=0;this.Title="M/T Assembly Disassembly";this.Name="SMG6E30E34150100000LCAD12";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(444,107,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(43,28,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E30A18224024895KBAD06(){var i=0;this.Title="Side Engine Mount Bracket Replacement";this.Name="SMG6E30A18224024895KBAD06";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(67,321,13,0,"'Arial','sans-serif'",0,"<b>12 x 1.25 mm<br>103 N&middot;m (10.5 kgf&middot;m, 76 lbf&middot;ft)</b>");}

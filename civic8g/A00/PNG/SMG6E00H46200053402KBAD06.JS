@@ -1,0 +1,1 @@
+function ISMG6E00H46200053402KBAD06(){var i=0;this.Title=" Center Seat Belt";this.Name="SMG6E00H46200053402KBAD06";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(101,17,13,0,"'Arial','sans-serif'",0,"<b>A<br>7/16-20 UNF<br>32 N&middot;m <br>(3.3 kgf&middot;m, 24 lbf&middot;ft)</b>");}

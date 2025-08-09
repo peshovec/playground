@@ -1,0 +1,1 @@
+function ISMG6E30K72100090171FAAD01(){var i=0;this.Title="DTC Troubleshooting: P0171 (45), P0172 (45)";this.Name="SMG6E30K72100090171FAAD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(216,17,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(80,19,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

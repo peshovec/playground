@@ -1,0 +1,1 @@
+function ISMG6E00J46127053949KBAD09(){var i=0;this.Title="Front Seat-back Cover Replacement";this.Name="SMG6E00J46127053949KBAD09";this.Width=475;this.Height=513;this.CallOut=new Array;this.CallOut[i++]=FS4(409,17,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(96,49,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

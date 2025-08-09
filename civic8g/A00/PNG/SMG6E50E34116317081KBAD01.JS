@@ -1,0 +1,1 @@
+function ISMG6E50E34116317081KBAD01(){var i=0;this.Title="Clutch Slave Cylinder Replacement";this.Name="SMG6E50E34116317081KBAD01";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(22,92,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(269,289,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

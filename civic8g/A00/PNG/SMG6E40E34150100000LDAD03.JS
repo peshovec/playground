@@ -1,0 +1,1 @@
+function ISMG6E40E34150100000LDAD03(){var i=0;this.Title="M/T Assembly Reassembly";this.Name="SMG6E40E34150100000LDAD03";this.Width=475;this.Height=353;this.CallOut=new Array;this.CallOut[i++]=FS4(441,115,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(437,49,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

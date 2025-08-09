@@ -1,0 +1,1 @@
+function ISMG6E3AE16226600000LDAD06(){var i=0;this.Title=" Inboard Joint Side";this.Name="SMG6E3AE16226600000LDAD06";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(428,21,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

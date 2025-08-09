@@ -1,0 +1,1 @@
+function ISMG6E3AJ26220200000KDAD02(){var i=0;this.Title=" Driver's side";this.Name="SMG6E3AJ26220200000KDAD02";this.Width=475;this.Height=449;this.CallOut=new Array;this.CallOut[i++]=FS4(430,230,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(410,78,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(139,313,13,0,"'Arial','sans-serif'",0,"<b>C</b>");}

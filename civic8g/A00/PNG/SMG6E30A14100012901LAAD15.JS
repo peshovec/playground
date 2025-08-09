@@ -1,0 +1,1 @@
+function ISMG6E30A14100012901LAAD15(){var i=0;this.Title=" Alternator Reassembly";this.Name="SMG6E30A14100012901LAAD15";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(331,279,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(108,275,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

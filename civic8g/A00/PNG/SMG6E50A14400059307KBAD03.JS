@@ -1,0 +1,1 @@
+function ISMG6E50A14400059307KBAD03(){var i=0;this.Title="Thermostat Housing Replacement";this.Name="SMG6E50A14400059307KBAD03";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(27,247,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(422,34,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E3AE16226600000LDAD17(){var i=0;this.Title=" Outboard Joint Side";this.Name="SMG6E3AE16226600000LDAD17";this.Width=475;this.Height=320;this.CallOut=new Array;this.CallOut[i++]=FS4(102,43,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

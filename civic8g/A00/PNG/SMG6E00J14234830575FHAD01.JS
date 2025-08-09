@@ -1,0 +1,1 @@
+function ISMG6E00J14234830575FHAD01(){var i=0;this.Title="HFT-Voice Control Switch Test/Replacement";this.Name="SMG6E00J14234830575FHAD01";this.Width=475;this.Height=417;this.CallOut=new Array;}

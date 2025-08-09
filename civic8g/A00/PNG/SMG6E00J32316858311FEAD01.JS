@@ -1,0 +1,1 @@
+function ISMG6E00J32316858311FEAD01(){var i=0;this.Title="Tailgate Latch Switch Test";this.Name="SMG6E00J32316858311FEAD01";this.Width=475;this.Height=449;this.CallOut=new Array;this.CallOut[i++]=FS4(404,215,13,0,"'Arial','sans-serif'",0,"<b>A</b>");this.CallOut[i++]=FS4(55,123,13,0,"'Arial','sans-serif'",0,"<b>B</b>");}

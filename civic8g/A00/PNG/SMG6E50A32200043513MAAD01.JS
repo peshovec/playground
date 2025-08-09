@@ -1,0 +1,1 @@
+function ISMG6E50A32200043513MAAD01(){var i=0;this.Title="Engine Oil Pump Chain Inspection";this.Name="SMG6E50A32200043513MAAD01";this.Width=475;this.Height=385;this.CallOut=new Array;this.CallOut[i++]=FS4(280,339,13,0,"'Arial','sans-serif'",0,"<b>8.0 mm<br>(0.32 in.)</b>");}

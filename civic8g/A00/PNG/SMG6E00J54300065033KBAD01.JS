@@ -1,0 +1,1 @@
+function ISMG6E00J54300065033KBAD01(){var i=0;this.Title="Headlight Washer Nozzle Replacement";this.Name="SMG6E00J54300065033KBAD01";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(324,233,13,0,"'Arial','sans-serif'",0,"<b>5 x 12 mm<br>4 N&middot;m <br>(0.4 kgf&middot;m, <br>3 lbf&middot;ft)</b>");}

@@ -1,0 +1,1 @@
+function ISMG6E00J46166453949KBAD13(){var i=0;this.Title="Rear Seat-back Cover Replacement";this.Name="SMG6E00J46166453949KBAD13";this.Width=475;this.Height=513;this.CallOut=new Array;this.CallOut[i++]=FS4(276,446,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(67,52,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

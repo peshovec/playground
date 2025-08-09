@@ -1,0 +1,1 @@
+function ISMG6E50E34150200000MAAD06(){var i=0;this.Title="M/T Countershaft Assembly Clearance Inspection";this.Name="SMG6E50E34150200000MAAD06";this.Width=475;this.Height=320;this.CallOut=new Array;}

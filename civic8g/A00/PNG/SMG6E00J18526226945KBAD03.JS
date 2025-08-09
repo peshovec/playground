@@ -1,0 +1,1 @@
+function ISMG6E00J18526226945KBAD03(){var i=0;this.Title="Front Fender Enclosure Replacement";this.Name="SMG6E00J18526226945KBAD03";this.Width=475;this.Height=417;this.CallOut=new Array;this.CallOut[i++]=FS4(98,26,13,0,"'Arial','sans-serif'",0,"<b>B</b>");this.CallOut[i++]=FS4(87,146,13,0,"'Arial','sans-serif'",0,"<b>A</b>");}

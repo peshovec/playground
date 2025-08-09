@@ -1,0 +1,1 @@
+function ISMG6E3AB20200036401KBAD02(){var i=0;this.Title=" Knuckle Removal";this.Name="SMG6E3AB20200036401KBAD02";this.Width=475;this.Height=369;this.CallOut=new Array;this.CallOut[i++]=FS4(282,310,13,0,"'Arial','sans-serif'",0,"<b>A<br>108 N&middot;m (11.0 kgf&middot;m,<br>79.6 lbf&middot;ft)</b>");}

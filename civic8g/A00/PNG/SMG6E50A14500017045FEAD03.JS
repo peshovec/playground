@@ -1,0 +1,1 @@
+function ISMG6E50A14500017045FEAD03(){var i=0;this.Title=" Clutch pedal position switch B";this.Name="SMG6E50A14500017045FEAD03";this.Width=475;this.Height=513;this.CallOut=new Array;this.CallOut[i++]=FS4(25,190,13,0,"'Arial','sans-serif'",0,"<b></b>Terminal side of <br>male terminals");}
